@@ -95,7 +95,7 @@ docker compose up --build
 ## How this maps to my experience
 
 This is the project behind the **Incident Data Warehouse and ETL Pipeline**
-on my CV (Team Lead, Oct 2024 – Mar 2025, Università di Pisa). The rebuild
+on my CV (Team Lead, Dec 2025 – August 2026, Self based). The rebuild
 adds the production practices from my TechWelt Group work: scheduled
 orchestration, data-quality checks on every pipeline, and a documented,
 reproducible setup another engineer can run with one command.
